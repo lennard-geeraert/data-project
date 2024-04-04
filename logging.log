@@ -1,0 +1,69 @@
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Lezen en cleanen van Mort, Deaths en Cases gegroepeerd volgens gender
+INFO:root:Mort, Deaths en Cases gegroepeerd volgens gender gecleant en ingeladen
+INFO:root:Proceren connectie te maken met database
+INFO:root:Connectie succesvol
+INFO:root:Drop, maak en vullen van tabel Cases_Sex
+INFO:root:Cases_Sex ingelezen en aangemaakt
+INFO:root:Table DeathsTotal_Sex verwijderen, aanmaken en inlezen
+INFO:root:Tabel DeathsTotal_Sex verwijderd, aangemaakt en ingelezen
+INFO:root:Tabel Mort_Sex verwijderen, aanmaken en inlezen
+INFO:root:Tabel Mort_Sex aangemaakt en ingelezen
+INFO:root:Relaties leggen tussen de tabellen Mort_Sex, DeathTotal_Sex en Cases_Sex
+INFO:root:Relaties zijn gelegd
+INFO:root:Datasets mort en deaths volgens leeftijdsgroep inlezen en cleanen
+INFO:root:Datasets ingelzen en gecleant
+INFO:root:Connactie maken met de database
+INFO:root:Connectie succesvol
+INFO:root:Tabel DeathsTotal_AgeGroup verwijderen, aanmaken en inlezen
+INFO:root:Tabel DeathsTotal_AgeGroup verwijderd, aangemaakt en ingelzen
+INFO:root:Tabel Mort_AgeGroup verwijderen, aanmaken en inlezen
+INFO:root:Tabel Mort_AgeGroup verwijderd, aangemaakt en ingelezen
+INFO:root:Relaties maken tussen de tabellen DeathsTotalAgeGroup en Mort_AgeGroup
+INFO:root:Relaties zijn gelegd
+INFO:root:methodes voor het cleanen van data voorbereiden
+INFO:root:Methodes zijn gemaakt
+INFO:root:Datasets verkeersongevallen inlezen en cleanen
+INFO:root:Dataset verkeersongevallen ingelzen en gecleant
+INFO:root:Proberen connactie te maken met de databank
+INFO:root:Connactie succesvol
+INFO:root:Tabel BesmettingenVerkeersongeval verwijderen, aanmaken en inlezen
+INFO:root:Tabel is aangemaakt en ingelezen
+INFO:root:Inlezen datasets Cases_cum, cases_muni_cum_vla, bevolking en verbruik
+INFO:root:Datasets Cases_cum, cases_muni_cum_vla, bevolking en verbruik ingelezen
+INFO:root:Cleanen van datasets Cases_cum, cases_muni_cum_vla, bevolking en verbruik
+INFO:root:Datasets Cases_cum, cases_muni_cum_vla, bevolking zijn gecleant
+INFO:root:Maak connactie met de databank
+INFO:root:Connectie succesvol
+INFO:root:Tabellen Bevolking_belgie, verbruik, CasesPerGemeenteCUM en CasesPerGemeenteCUMVlaanderen droppen indien ze bestaan
+INFO:root:Tabellen Bevolking_belgie, verbruik, CasesPerGemeenteCUM en CasesPerGemeenteCUMVlaanderen gedropt
+INFO:root:Tabellen Bevolking_belgie, verbruik, CasesPerGemeenteCUM en CasesPerGemeenteCUMVlaanderen aanmaken
+INFO:root:Tabellen Bevolking_belgie, verbruik, CasesPerGemeenteCUM en CasesPerGemeenteCUMVlaanderen aangemaakt
+INFO:root:Inlezen van datasets in tabellen
+INFO:root:Datasets zijn ingelezen
+INFO:root:Start met het inlezen en cleanen van data hosp en vacc
+INFO:root:Start met het inlezen en cleanen van data hosp en vacc
+INFO:root:Data hosp en vacc zijn gecleant
+INFO:root:PK aanmaken en zo relaties leggen
+INFO:root:Relaties zijn gelegd
+INFO:root:Maak connactie met de databank
+INFO:root:Connectie gemaakt met databank
+INFO:root:Drop tabellen hosp, casesmunicipality en vaccinationdate als ze bestaan
+INFO:root:Tabellen hosp, casesmunicipality en vaccinationdate zijn gedropt
+INFO:root:Maken van de tabellen hosp, casesmunicipality en vaccinationdate
+INFO:root:Tabellen hosp, casesmunicipality en vaccinationdate zijn aangemaakt
+INFO:root:Start met het vullen van de tabellen hosp, casesmunicipality en vaccinationdate
+INFO:root:Tabellen hosp, casesmunicipality en vaccinationdate zijn gevuld
+INFO:root:methodes voor het cleanen van data voorbereiden
+INFO:root:Methodes zijn gemaakt
+INFO:root:Data vaccinatieRegio, bevolking en CasesRegio inlezen en cleanen met opgebouwde methodes
+INFO:root:Datasets bevolking, vacc en cases ingelzen en gecleant
+INFO:root:Proberen connectie te maken met de databank
+INFO:root:Connectie succesvol
+INFO:root:Verwijderen van Tabellen VaccinatieRegio, Population, CasesMUNI_CUM en VaccinatieGemeente
+INFO:root:Tabellen zijn verwijderd
+INFO:root:Tabellen VaccinatieRegio, Population, CasesMUNI_CUM en  VaccinatieGemeente aanmaken
+INFO:root:Tabellen VaccinatieRegio, Population, CasesMUNI_CUM en  VaccinatieGemeente aagemaakt
+INFO:root:Tabellen VaccinatieRegio, Population, CasesMUNI_CUM en  VaccinatieGemeente inlezen
+INFO:root:Tabellen VaccinatieRegio, Population, CasesMUNI_CUM en  VaccinatieGemeente ingelezen

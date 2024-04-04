@@ -1,0 +1,46 @@
+Basisprincipes huisstijl
+-------------------------
+Titel = Montserrat Extrabold (momenteel nog segoe bold)
+Tekst = Montserrat Regular (momenteel nog segoe ui)
+font helemaal op het einde aanpassen via json file nu kiezen voor segoe
+
+Kleuren
+-------
+kleuren ingeven in PowerBI via RGB-kleurencode
+enkel onderstaande kleuren gebruiken vanwege hogent huisstijl
+Donker Groen: 	22/176/165
+Roze: 241/157/160
+Oranje: 250/188/50
+Rood: 239/135/103
+Paars: 187/144/189
+Blauw: 76/162/213
+Licht Groen: 165/202/114
+Bruin: 216/176/131
+Grijs: 195/187/175
+Geel: 244/222/0
+zwart
+grijstinten
+wit
+
+Titel
+------ 
+background: donker grijs: kolom 1, voorlaatste rij
+Font: wit
+font-size: 14pt
+font-style: Segoe bold 
+text: centreren
+
+Afbeelding
+----------
+contouren verkleuren naar kleur van huisstijl
+
+
+
+#5652AC : paars
+#EAEAF1 : lila
+#B9B9CC : actief
+#B9B9CC : extra licht
+
+
+Wallonia
+
